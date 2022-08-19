@@ -1,0 +1,24 @@
+url: https://pafelog.net
+name: 無線部開発班
+icon: /assets/head.png
+lead: automatic tabulation system for hamradio contests, parallel computing framework, programming language processors, machine learning, etc.
+desc: アマチュア無線のコンテスト運営システムから, 並列計算フレームワーク, プログラミング言語処理系, 機械学習まで, ソフトウェア科学の記事を公開.
+items:
+- name: Home
+  href: /
+links:
+- name: Twitter
+  href: https://twitter.com/nextzlog
+  icon: fab fa-twitter
+- name: 東大無線部
+  href: https://ja1zlo.u-tokyo.org
+- name: 無線部開発班
+  href: https://pafelog.net
+jumps:
+- name: GitHub
+  href: https://github.com/nextzlog
+  icon: fab fa-github
+- name: Issues
+  href: https://github.com/nextzlog/todo/issues
+  icon: fas fa-comments
+google_analytics: UA-75073167-1
